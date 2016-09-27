@@ -1,0 +1,14 @@
+{
+  "name": "analytics",
+  "version": "0.0.0",
+  "description": "",
+  "main": "analytics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "universal-analytics": "^0.4.2"
+  }
+}
